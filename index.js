@@ -81,4 +81,4 @@ client.on('message', async message => {
 //         message.channel.send('https://www.google.com');
 //     }
 // });
-client.login('ODA3NzAyMjE4MjQxMDgxMzk1.YB71Tw.hegtanpTR_U50p03S5erUgZ3bo0'); // MUST BE AT THE END
+// client.login(''); // MUST BE AT THE END
